@@ -44,6 +44,14 @@ This repository contains training modules and assignments for the BridgeLabz SIP
 
 ---
 
+
+### 🔹 [GenericsNCollections](https://github.com/PrakharSingh0/BridgeLabz-SIPP-Training/tree/GenericsNCollections)
+> **Core concepts:**  
+> - Generics  
+> - Collections
+
+---
+
 ### 🔹 [Workshop](https://github.com/PrakharSingh0/BridgeLabz-SIPP-Training/tree/Workshop)
 > **Hands-on practice:**  
 > - Mini-projects integrating CoreJava, OOP, and DSA  
