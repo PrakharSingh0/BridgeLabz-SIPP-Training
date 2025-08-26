@@ -1,0 +1,4 @@
+Hello, this is a sample file for testing exception handling.
+This file contains some text to demonstrate file reading operations.
+Line 3: Testing file content.
+Line 4: Another line for demonstration.
